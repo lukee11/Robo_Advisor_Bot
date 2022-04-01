@@ -12,9 +12,9 @@ This repository showcases an Amazon Lex robo advisor bot that suggests an invest
 
 3. Enhance the robo advisor with an amazon lambda function
 
-![Bot](Images_Icons/bot_image.PNG)
+![Bot](images_icons/bot_image.PNG)
 
-![Bot2](Images_Icons/bot_image_2.png)
+![Bot2](images_icons/bot_image_2.PNG)
 
 ### Built with 
 
