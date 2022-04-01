@@ -2,26 +2,26 @@
 
 ## Background
 
-This repository showcases an Amazon Lex Robo Advisor bot that suggests an investment portfolio for retirement. 
+This repository showcases an Amazon Lex robo advisor bot that suggests an investment portfolio for retirement. 
 
-### Tasks completed:
+### Tasks completed
 
-1. Initial Robo Advisor Configuration
+1. Initial robo advisor configuration
 
-2. Build and Test the Robo Advisor
+2. Build and test the robo advisor
 
-3. Enhance the Robo Advisor with an Amazon Lambda Function
+3. Enhance the robo advisor with an amazon lambda function
 
-![bot_demo](Images and Icons/bot_image.PNG)
+![Bot](Images_Icons/bot_image.PNG)
 
-![bot_demo_2](Images and Icons/bot_image_2.PNG)
+![Bot2](Images_Icons/bot_image_2.png)
 
 ### Built with 
 
-* Amazon Web Services
+* AWS
 
-* python
+* Python
 
-* jupyter notebook
+* Jupyter notebook
 
 - - - 
